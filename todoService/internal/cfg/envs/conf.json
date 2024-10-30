@@ -1,0 +1,27 @@
+[
+  {
+  "name":"Bridie Nader",
+  "phoneNumber":"991.420.6682",
+  "email":"elbert.altenwerth@hotmail.com",
+  "address":"68173 Gleichner Route Apt. 655\nLake Gilbert, MS 88627",
+  "userAgent":"Mozilla\/5.0 (compatible; MSIE 6.0; Windows NT 6.0; Trident\/3.0)",
+  "hexcolor":"#eedbae"},
+  {"name":"Mrs. Kathryne Eichmann",
+    "phoneNumber":"(590) 636-5151",
+    "email":"jason79@gmail.com",
+    "address":"8499 Osinski Camp Apt. 670\nSouth Jacehaven, DE 65110-3027",
+    "userAgent":"Mozilla\/5.0 (Windows; U; Windows NT 5.01) AppleWebKit\/532.9.5 (KHTML, like Gecko) Version\/4.0.4 Safari\/532.9.5",
+    "hexcolor":"#a297dc"},
+  {"name":"Arturo Greenfelder",
+    "phoneNumber":"(689) 542-0959",
+    "email":"hermann.cortez@yahoo.com",
+    "address":"300 Larson Junction Apt. 261\nLake Domenicoview, IN 70610",
+    "userAgent":"Mozilla\/5.0 (Windows CE; sl-SI; rv:1.9.1.20) Gecko\/20210218 Firefox\/36.0",
+    "hexcolor":"#6ab75c"},
+  {"name":"Mrs. Alanis Leuschke I",
+    "phoneNumber":"834-959-3411",
+    "email":"parisian.parker@hotmail.com",
+    "address":"495 Hallie Row\nEast Angelita, MA 34217-2873",
+    "userAgent":"Mozilla\/5.0 (X11; Linux i686; rv:5.0) Gecko\/20110128 Firefox\/36.0",
+    "hexcolor":"#bfba8b"}
+]
